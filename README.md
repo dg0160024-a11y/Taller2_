@@ -1,4 +1,4 @@
-Primer Programa
+
 
 Este proyecto enseña los comandos basicos de java para mostrar un mensaje al usuario y pedirle su nombre usando Java.Util.Scanner en el archivo de HolaMundo
 
