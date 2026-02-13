@@ -1,6 +1,10 @@
 **PRIMER PROGRAMA** 🖥️ 🌐
 
-Este proyecto enseña los comandos basicos de java para mostrar un mensaje al usuario y pedirle su nombre usando Java.Util.Scanner en el archivo de HolaMundo 
+Este proyecto tiene como finalidad explicar y poner en práctica los comandos fundamentales del lenguaje Java. A través del archivo HolaMundo, se muestra cómo imprimir mensajes en pantalla dirigidos al usuario y cómo solicitar información desde la consola, específicamente el nombre de la persona que ejecuta el programa.
+
+Para lograr esto, se utiliza la clase Scanner, perteneciente al paquete java.util, la cual permite capturar datos ingresados por el usuario desde el teclado. De esta manera, el programa no solo muestra texto en pantalla, sino que también interactúa con quien lo ejecuta, haciendo el proceso más dinámico y práctico.
+
+En resumen, este proyecto demuestra el uso de instrucciones básicas de salida de datos y entrada de información en Java, reforzando conceptos esenciales para comenzar a desarrollar programas interactivos 
 
 
 
