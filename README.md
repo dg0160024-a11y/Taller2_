@@ -9,7 +9,7 @@ En resumen, este proyecto demuestra el uso de instrucciones básicas de salida d
 
 
 
-##**Pasos para la instalacion de JDK:**
+## Pasos para la instalacion de JDK:
 
 • Tener visual studio code
 
@@ -22,7 +22,7 @@ En resumen, este proyecto demuestra el uso de instrucciones básicas de salida d
 
 
 
-###**EL EQUIPO SE CONFORMA POR 🌐:**
+### EL EQUIPO SE CONFORMA POR 🌐:
 
 • Daniel Gomez Yepes
 
@@ -31,7 +31,7 @@ En resumen, este proyecto demuestra el uso de instrucciones básicas de salida d
 
 
 
-####**Enlaces:**
+#### Enlaces:
 
 https://www.ibm.com/mx-es/think/topics/compiler
 
