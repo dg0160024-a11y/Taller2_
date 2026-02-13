@@ -1,4 +1,4 @@
-#PRIMER PROGRAMA 🖥️ 🌐
+# PRIMER PROGRAMA 🖥️ 🌐
 
 Este proyecto tiene como finalidad explicar y poner en práctica los comandos fundamentales del lenguaje Java. A través del archivo HolaMundo, se muestra cómo imprimir mensajes en pantalla dirigidos al usuario y cómo solicitar información desde la consola, específicamente el nombre de la persona que ejecuta el programa.
 
