@@ -2,6 +2,9 @@
 
 Este proyecto enseña los comandos basicos de java para mostrar un mensaje al usuario y pedirle su nombre usando Java.Util.Scanner en el archivo de HolaMundo 
 
+
+
+
 **Pasos para la instalacion de JDK:**
 
 • Tener visual studio code
@@ -13,11 +16,15 @@ Este proyecto enseña los comandos basicos de java para mostrar un mensaje al us
 • Ejecutar el programa
 
 
+
+
 **EL EQUIPO SE CONFORMA POR 🌐:**
 
 • Daniel Gomez Yepes
 
 • Juan Felipe Vanegas Rojas
+
+
 
 
 **Enlaces:**
