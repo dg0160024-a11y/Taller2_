@@ -31,7 +31,7 @@ En resumen, este proyecto demuestra el uso de instrucciones básicas de salida d
 
 
 
-#### ENLACES:
+# ENLACES:
 
 • https://www.ibm.com/mx-es/think/topics/compiler ¿Que es un compilador?
 
