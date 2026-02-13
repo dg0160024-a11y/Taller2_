@@ -1,4 +1,4 @@
-**PRIMER PROGRAMA** 🖥️ 🌐
+#**PRIMER PROGRAMA** 🖥️ 🌐
 
 Este proyecto tiene como finalidad explicar y poner en práctica los comandos fundamentales del lenguaje Java. A través del archivo HolaMundo, se muestra cómo imprimir mensajes en pantalla dirigidos al usuario y cómo solicitar información desde la consola, específicamente el nombre de la persona que ejecuta el programa.
 
@@ -9,7 +9,7 @@ En resumen, este proyecto demuestra el uso de instrucciones básicas de salida d
 
 
 
-**Pasos para la instalacion de JDK:**
+##**Pasos para la instalacion de JDK:**
 
 • Tener visual studio code
 
@@ -22,7 +22,7 @@ En resumen, este proyecto demuestra el uso de instrucciones básicas de salida d
 
 
 
-**EL EQUIPO SE CONFORMA POR 🌐:**
+###**EL EQUIPO SE CONFORMA POR 🌐:**
 
 • Daniel Gomez Yepes
 
@@ -31,7 +31,7 @@ En resumen, este proyecto demuestra el uso de instrucciones básicas de salida d
 
 
 
-**Enlaces:**
+####**Enlaces:**
 
 https://www.ibm.com/mx-es/think/topics/compiler
 
